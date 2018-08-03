@@ -1,15 +1,18 @@
+* {
+  font-family: 'Courier New', Courier, monospace;
+}
+
 nav {
   background: #eee;
-  padding: 20px 0 10px 30px;
-  font-size: 20px;
-  height: 60px;
+  padding: 15px 0 15px 20px;
+  font-size: 15px;
 }
 
 #app {
 
   position: fixed;
 
-  top: 60px;
+  top: 40px;
   bottom: 0;
   right: 0;
   left: 0;

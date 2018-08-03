@@ -4,5 +4,8 @@
   "repository": "https://github.com/suhaybabsi/fun-starter",
   "logo": "https://raw.githubusercontent.com/suhaybabsi/fun-starter/master/public/img/logo.svg",
   "keywords": ["node", "react", "express"],
-  "image": "heroku/nodejs"
+  "image": "heroku/nodejs",
+  "addons": [
+    { "plan": "heroku-postgresql" }
+  ]
 }

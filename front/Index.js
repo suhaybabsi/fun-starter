@@ -5,7 +5,7 @@ class Root extends React.Component {
 
     render() {
         return (
-            <h1>Hello, React is here .. !</h1>
+            <h2>Hello, React is here .. !</h2>
         );
     }
 }
